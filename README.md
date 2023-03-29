@@ -1,4 +1,4 @@
-# mnemonicbruteforcegpu
+# Mnemonic Brute Force GPU
 
 Donation
 
